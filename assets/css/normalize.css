@@ -224,10 +224,11 @@
    }
    
    .section {
-     position: relative;
-     padding-right: 2.5%;
-     padding-left: 2.5%;
-     background-color: #fff;
+    position: relative;
+    text-align: center;
+    padding-right: 2.5%;
+    padding-left: 2.5%;
+    background-color: #fff;
    }
    
    .section.centered {
@@ -755,6 +756,7 @@
      margin-left: auto;
      font-size: 14px;
      line-height: 22px;
+     text-align: justify;
    }
    
    .blog-content h1 {
