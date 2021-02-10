@@ -22,7 +22,7 @@ Vue.component('index-page', {
         <div class="w-dyn-items">
           <div class="blog-post w-dyn-item">
             <a class="post-link w-inline-block" href="textos/amor.html">
-              <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="assets/images/home.jpg" height="800">
+              <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="assets/images/image-capa.jpg" height="800">
             </a>
             <div class="heading-wrapper">
               <h1 class="post-heading" data-w-expand="category">Carta de amor</h1>

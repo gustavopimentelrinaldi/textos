@@ -16,7 +16,7 @@ Vue.component('textos', {
     </div>
     <div class="section">
       <div class="w-container">
-        <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/home.jpg" height="450">
+        <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/image-capa.jpg" height="450">
         <h1 class="post-heading" data-w-expand="category">Carta de amor</h1>
         <div class="byline-wrapper">
           <div class="byline-text">November 05, 2020</div>
