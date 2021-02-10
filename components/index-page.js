@@ -9,9 +9,10 @@ Vue.component('index-page', {
       </a>
       <div class="navigation-bar">
         <a class="nav-link" href="index.html">textos</a>
-        <a class="nav-link" href="./pages/about.html">about</a>
-        <a class="nav-link" href="./pages/fotos-dela.html">fotos dela</a>
-        <a class="nav-link" href="./pages/eu-com-ela.html">eu com ela</a>
+        <a class="nav-link" href="pages/fotos-dela.html">fotos dela</a>
+        <a class="nav-link" href="pages/eu-com-ela.html">eu com ela</a>
+        <a class="nav-link" href="pages/videos-dela.html">videos dela</a>
+
       </div>
     </div>
   </div>
@@ -41,7 +42,6 @@ Vue.component('index-page', {
     <div class="heading-wrapper">
       <div class="byline-wrapper">
         <a class="byline-link" href="https://www.instagram.com/gustavorinaldii/" target="_blank">Instagram</a>
-        <a class="byline-link" href="https://www.linkedin.com/in/gustavo-pimentel-rinaldi/" target="_blank">LinkedIn</a>
       </div>
     </div>
   </div>

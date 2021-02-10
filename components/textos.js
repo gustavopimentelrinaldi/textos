@@ -3,14 +3,14 @@ Vue.component('textos', {
   `<div>
     <div class="header-section">
       <div class="w-container">
-        <a class="blog-home-link w-inline-block" href="index.html">
+        <a class="blog-home-link w-inline-block" href="../index.html">
           <h1 class="blog-name">RINALDI</h1>
         </a>
         <div class="navigation-bar">
           <a class="nav-link" href="../index.html">textos</a>
-          <a class="nav-link" href="../about.html">about</a>
           <a class="nav-link" href="../fotos-dela.html">fotos dela</a>
           <a class="nav-link" href="../eu-com-ela.html">eu com ela</a>
+          <a class="nav-link" href="pages/videos-dela.html">videos dela</a>
         </div>
       </div>
     </div>
@@ -291,6 +291,9 @@ Vue.component('textos', {
           </p>
         </div>
         <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/nos9.jpeg" height="550">
+        <p>
+          Continua...
+        </p>
       </div>
     </div>
     <div class="footer">

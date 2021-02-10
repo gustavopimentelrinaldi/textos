@@ -974,6 +974,12 @@
       height: 550px;
     }
 
+    .carousel-inner .carousel-item iframe{
+      height: 600px;
+      width: 100%;
+      margin-bottom: 50px;
+    }
+
      @media (max-width: 991px) {
        .hamburger-button.left {
          float: left;
@@ -1004,6 +1010,11 @@
        }
        .carousel-inner .carousel-item img{
         height: auto;
+      }
+
+      .carousel-inner .carousel-item iframe{
+        height: 400px;
+        width: 100%;
       }
      }
      
@@ -1040,6 +1051,10 @@
        .carousel-inner .carousel-item img{
         height: auto;
       }
+      .carousel-inner .carousel-item iframe{
+        height: 400px;
+        width: 100%;
+      }
      }
      
      @media (max-width: 479px) {
@@ -1060,5 +1075,9 @@
        }
        .carousel-inner .carousel-item img{
         height: auto;
+      }
+      .carousel-inner .carousel-item iframe{
+        height: 400px;
+        width: 100%;
       }
      }
