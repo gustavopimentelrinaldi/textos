@@ -8,9 +8,9 @@ Vue.component('textos', {
         </a>
         <div class="navigation-bar">
           <a class="nav-link" href="../index.html">textos</a>
-          <a class="nav-link" href="../fotos-dela.html">fotos dela</a>
-          <a class="nav-link" href="../eu-com-ela.html">eu com ela</a>
-          <a class="nav-link" href="pages/videos-dela.html">videos dela</a>
+          <a class="nav-link" href="../pages/fotos-dela.html">fotos dela</a>
+          <a class="nav-link" href="../pages/eu-com-ela.html">eu com ela</a>
+          <a class="nav-link" href="../pages/videos-dela.html">videos dela</a>
         </div>
       </div>
     </div>
