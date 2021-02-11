@@ -24,61 +24,99 @@ Vue.component('videos-dela', {
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video1.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video1.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video2.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video2.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video3.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video3.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video4.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video4.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video5.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video5.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video6.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video6.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video7.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video7.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video8.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video8.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video9.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video9.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video10.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video10.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video11.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video11.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video12.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video12.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video13.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video13.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video14.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video14.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video15.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video15.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video16.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video16.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video17.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video17.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video18.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video18.mp4" type="video/mp4">
+            </video>
           </div>
           <div class="carousel-item" data-bs-interval="10000">
-            <iframe class="embed-responsive-item" src="../assets/videos/video19.mp4" allowfullscreen></iframe>
+            <video class="embed-responsive-item" controls>
+              <source src="../assets/videos/video19.mp4" type="video/mp4">
+            </video>
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleDark" role="button" data-bs-slide="prev">
