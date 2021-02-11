@@ -291,9 +291,38 @@ Vue.component('textos', {
           </p>
         </div>
         <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/nos9.jpeg" height="550">
-        <p>
-          Continua...
-        </p>
+        <div class="blog-content w-richtext">
+          <p>
+            As possibilidades de felicidade são egoístas, meu amor. Viver a liberdade, amar de verdade, só se for a dois... só a dois.
+          </p>
+          <h2>5 Meses</h2>
+          <p>
+            5 meses de namoro, 7 meses de conversa, um pouco antes de te pedir em namoro nós já estávamos juntos, e você acreditou que eu não te pediria em namoro, mas na minha cabeça
+            já estava tudo certinho, tudo organizado, pra mim já era um compromisso. A tentativa de te manter longe de coisa ruim, de desrespeito, continua... e isso me faz ser chato, 
+            a exigência que eu faço pra mim mesmo, de sempre procurar saber onde você está e com quem está me faz ser chato! O que eu quero pra mim? Você! O que eu quero pra você? O melhor! 
+            E esse melhor eu to procurando ser todos os dias. Tem um fenômeno acontecendo na nossa relação hoje, o padrão de exigência vem aumentando, ta se tornando algo sério demais, 
+            a cobrança de sermos fiéis e leais ao outro aumentou drasticamente, a exigência de não querer ser tratado só como um amigo, de ser cada vez mais focado na gente. 
+          </p>
+          <p>
+            Mas, a exigência de ser cada vez mais carinhoso, atencioso e dedicado é uma exigência que eu devo fazer pra mim mesmo, e pode ter certeza que estou me exigindo isso, 
+            e as vezes meu amor, pode ser que tenha pegado muita intimidade com você, e acabei soltando um "ou" ou "pô", isso não tem valor sentimental nenhum, mas isso também não
+            mede meu amor e meu foco em você. Na minha cabeça eu estou o tempo todo reafirmando frases como "ela é minha", "eu a amo", "ela é MINHA mulher", "eu vou casar com ela",
+            "O amor da minha vida", "A mulher da minha vida". Ei amor... viu? coloquei um "ei" antes da palavra "amor" e você nem se importou, é uma questão de perspectiva, mas a 
+            demonstração é necessária, ei amor da minha vida, o que você tem talvez seja medo disso acabar, de que talvez eu perca minha vontade de estar com você, de que talvez 
+            meu amor por você vá embora, amor... eu sei exatamente como isso é impossível de acontecer na prática, mas na teoria a gente considera o acontecimento, mas como diria 
+            a música do Zé Vaqueiro: "Se acabou, não era amor, não era amor, nunca foi amor[...]"
+          </p>
+          <p>
+            Vim aqui deixar esse pedaço de texto, como forma de deixar registrado mais uma vez a exalação desse amor que corre aqui dentro, flamejante e vivo, e para atualizar todo 
+            mundo que lê essa parte neste exato momento, de que estamos bem, juntos e grudados como nunca! Os medos continuam, a insegurança talvez ainda esteja presente em algum momento, 
+            mas estamos aqui, nada mudou! aliás, mudou sim, pra melhor... é sempre pra melhor, nunca presenciei sequer um dia em que meu amor não fosse mais forte e intenso do que o dia anterior!!! 
+            Feliz 5 meses amor da minha vida! &hearts;
+          </p>
+        </div>
+        <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/nos10.jpg" height="550">
+          <p>
+            Continua...
+          </p>
       </div>
     </div>
     <div class="footer">
