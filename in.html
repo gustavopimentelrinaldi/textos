@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>Document</title>
+	<link rel="stylesheet" href="assets/css/normalize.css"/>
+	<link rel="stylesheet" href="assets/css/adjusts.css"/>
+</head>
+<body>
+	<div id="app">
+		<index-page></index-page>
+		<footer></footer>
+	</div>
+
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.13/dist/vue.js"></script>
+	<script src="./assets/js/vue.js"></script>
+	<script src="./components/index-page.js"></script>
+	<script>
+		var data = prompt("Etapa dois de confirmação de identidade: qual a sua data de nascimento?");
+		if(data === "02/04/2000"){
+			true;
+		} else if(data !== "02/04/2000"){
+			window.location.href = "index.html";
+			alert("sem permissão!");
+		}
+	</script>
+</body>
+</html>

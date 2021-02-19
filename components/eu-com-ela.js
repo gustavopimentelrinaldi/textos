@@ -3,11 +3,11 @@ Vue.component('eu-com-ela', {
   `<div>
     <div class="header-section">
       <div class="w-container">
-        <a class="blog-home-link w-inline-block" href="../index.html">
+        <a class="blog-home-link w-inline-block" href="../in.html">
           <h1 class="blog-name">RINALDI</h1>
         </a>
         <div class="navigation-bar">
-          <a class="nav-link" href="../index.html">textos</a>
+          <a class="nav-link" href="../in.html">textos</a>
           <a class="nav-link" href="fotos-dela.html">fotos dela</a>
           <a class="nav-link" href="eu-com-ela.html">eu com ela</a>
           <a class="nav-link" href="../pages/videos-dela.html">videos dela</a>

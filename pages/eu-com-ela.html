@@ -23,5 +23,14 @@
     <script src="https://cdn.jsdelivr.net/npm/vue@2.5.13/dist/vue.js"></script>
     <script src="../assets/js/vue.js"></script>
     <script src="../components/eu-com-ela.js"></script>
+    <script>
+      var data = prompt("Terá que confirmar sua data de nascimento em todas as páginas do site :)");
+      if(data === "02/04/2000"){
+        true;
+      } else if(data !== "02/04/2000"){
+        window.location.href = "../index.html";
+        alert("sem permissão!");
+      }
+    </script>
   </body>
 </html>

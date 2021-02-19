@@ -23,5 +23,14 @@
     <link rel="stylesheet" href="../assets/bootstrap/js/bootstrap.min.js"/>
     <script src="../assets/js/vue.js"></script>
     <script src="../components/fotos-dela.js"></script>
+    <script>
+      var data = prompt("Terá que confirmar sua data de nascimento em todas as páginas do site :)");
+      if(data === "02/04/2000"){
+        true;
+      } else if(data !== "02/04/2000"){
+        window.location.href = "../index.html";
+        alert("sem permissão!");
+      }
+    </script>
   </body>
 </html>
