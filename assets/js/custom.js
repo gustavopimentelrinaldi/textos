@@ -13,15 +13,3 @@
       }, false)
     })
 })()
-
-$("#enviar").click(function() {
-  var usuario = $('input[name="user"]').val();
-  var senha = $('input[name="password"]').val();
-  if(usuario === "deb" && senha === "minhabebe"){
-    return this;
-    
-  } else if(usuario !== "deb" || senha !== "minhabebe"){
-    alert("Não autenticado!");
-    return false;
-  }
-});
