@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../assets/css/adjusts.css"/>
     <title>document</title>
   </head>
-  <body>
+  <body onkeydown="return false">
    
     
     <div id="videos-dela">
@@ -31,6 +31,14 @@
         window.location.href = "../index.html";
         alert("sem permissão!");
       }
+    </script>
+
+    <script language="JavaScript">
+      function protegercodigo() {
+      if (event.button==2||event.button==3){
+          alert('Codigo protegido!');}
+      }
+      document.onmousedown=protegercodigo
     </script>
   </body>
 </html>

@@ -337,7 +337,7 @@ Vue.component('textos', {
   </div>`,
   data() {
     return {
-      
+
     }
   }
 })
