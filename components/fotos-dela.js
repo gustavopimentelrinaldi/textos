@@ -11,6 +11,7 @@ Vue.component('fotos-dela', {
         <a class="nav-link" href="fotos-dela.html">fotos dela</a>
         <a class="nav-link" href="eu-com-ela.html">eu com ela</a>
         <a class="nav-link" href="../pages/videos-dela.html">videos dela</a>
+        <a class="nav-link" href="../pages/mapa-de-fotos.html">mapa de fotos</a>
       </div>
     </div>
     </div>
@@ -78,6 +79,30 @@ Vue.component('fotos-dela', {
           </div>
           <div class="carousel-item">
             <img src="../assets/images/ela/IMG_7916.jpeg" class="d-block mx-auto img-fluid">
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/images/ela/9d9eb1a9-9bf0-4e8b-bfca-1f556589156e.jpg" class="d-block mx-auto img-fluid">
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/images/ela/8033BBE9-1B54-4589-84BB-DB4632145CD8.jpg" class="d-block mx-auto img-fluid">
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/images/ela/a6c49ed5-d32c-4f0f-b71d-1c9622e45048.jpg" class="d-block mx-auto img-fluid">
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/images/ela/b65eaa69-612b-445c-b90a-b77781a5f67f.jpg" class="d-block mx-auto img-fluid">
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/images/ela/d24417fb-932a-48f1-afac-2d0e16f4871b.jpeg" class="d-block mx-auto img-fluid">
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/images/ela/IMG_8385.jpeg" class="d-block mx-auto img-fluid">
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/images/ela/IMG_8459.jpeg" class="d-block mx-auto img-fluid">
+          </div>
+          <div class="carousel-item">
+            <img src="../assets/images/ela/IMG_8460.jpeg" class="d-block mx-auto img-fluid">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleDark" role="button" data-bs-slide="prev">

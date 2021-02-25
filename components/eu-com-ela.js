@@ -11,6 +11,7 @@ Vue.component('eu-com-ela', {
           <a class="nav-link" href="fotos-dela.html">fotos dela</a>
           <a class="nav-link" href="eu-com-ela.html">eu com ela</a>
           <a class="nav-link" href="../pages/videos-dela.html">videos dela</a>
+          <a class="nav-link" href="../pages/mapa-de-fotos.html">mapa de fotos</a>
         </div>
       </div>
     </div>
@@ -153,6 +154,12 @@ Vue.component('eu-com-ela', {
             </div>
             <div class="carousel-item">
               <img src="../assets/images/eu-e-ela/IMG_7688.JPEG" class="d-block mx-auto img-fluid">
+            </div>
+            <div class="carousel-item">
+              <img src="../assets/images/eu-e-ela/0FDBAC9A-32C4-4AED-A057-D859F3729B32.jpg" class="d-block mx-auto img-fluid">
+            </div>
+            <div class="carousel-item">
+              <img src="../assets/images/eu-e-ela/IMG_7920.jpeg" class="d-block mx-auto img-fluid">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleDark" role="button" data-bs-slide="prev">
