@@ -13,7 +13,7 @@ Vue.component('index-page', {
         <a class="nav-link" href="pages/eu-com-ela.html">eu com ela</a>
         <a class="nav-link" href="pages/videos-dela.html">videos dela</a>
         <a class="nav-link" href="pages/mapa-de-fotos.html">mapa de fotos</a>
-        <!--<a class="nav-link" href="extensao/index.html">extensão</a>-->
+        <a class="nav-link" href="extensao/index.html">extensão</a>
       </div>
     </div>
   </div>
