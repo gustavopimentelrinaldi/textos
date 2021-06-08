@@ -320,7 +320,7 @@ Vue.component('textos', {
             Feliz 5 meses amor da minha vida! &hearts;
           </p>
         </div>
-        <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/nos9.jpeg" height="550">
+        <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/eu-e-ela/eueela1.jpeg" height="550">
         <div class="blog-content w-richtext">
           <p>
             Um navio com um grau de leme torcido, chegará num destino diferente a qual proposto foi.
@@ -339,14 +339,11 @@ Vue.component('textos', {
             decisão que deveria tomar em relação a gente, em relação ao nosso casamento, a pergunta era simples: "Senhor, devo me casar com este homem ou não?"
             As decisões a serem tomadas a partir dessa pergunta eram simples diante da resposta obtida, se Ele dissesse "sim", ela casaria, se Ele dissesse "não",
             ela não casaria, e se Ele não dissesse nada, ela não se movia. Enfim, a ideia é não se mover sem o comando Dele, é entregar seu futuro nas suas mãos,
-            é confiar completamente nos planos Dele, porque enquanto nós estamos pensando no hoje, é que Ele vê daqui 1 mês, 1 ano, ele está pensando em
+            é confiar completamente nos planos Dele, porque nós vemos o hoje, mas é que Ele vê daqui 1 mês, 1 ano, ele está pensando em
             algo preparado, completo, no momento certo, Ele não quer que seu plano dê errado, sabe porque? Porque Ele, não constrói sobre escombros. Conclusão, 
             Ela foi a um lugar preparado pra obter essas respostas, ela é o meu templo, pois Ele falou que eu deveria ama-la como Jesus amou a igreja, e ela é o meu templo, que me trás paz e esperança
             de um futuro lindo e uma família incrível. Muita gente se divorciando, muita gente infeliz que, Ao invés de tê-lo escutado e entregado sua vida para que ele decidisse,
             tomou suas próprias escolhas precipitadas. Confie!
-          </p>
-          <p>
-            aa
           </p>
         </div>
         <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/nos10.jpg" height="550">
