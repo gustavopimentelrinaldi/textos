@@ -339,7 +339,7 @@ Vue.component('textos', {
             decisão que deveria tomar em relação a gente, em relação ao nosso casamento, a pergunta era simples: "Senhor, devo me casar com este homem ou não?"
             As decisões a serem tomadas a partir dessa pergunta eram simples diante da resposta obtida, se Ele dissesse "sim", ela casaria, se Ele dissesse "não",
             ela não casaria, e se Ele não dissesse nada, ela não se movia. Enfim, a ideia é não se mover sem o comando Dele, é entregar seu futuro nas suas mãos,
-            é confiar completamente nos planos Dele, porque enquanto nós estamos pensando no hoje, Ele está pensando daqui 1 mês, 1 ano, ele está pensando em
+            é confiar completamente nos planos Dele, porque enquanto nós estamos pensando no hoje, é que Ele vê daqui 1 mês, 1 ano, ele está pensando em
             algo preparado, completo, no momento certo, Ele não quer que seu plano dê errado, sabe porque? Porque Ele, não constrói sobre escombros. Conclusão, 
             Ela foi a um lugar preparado pra obter essas respostas, ela é o meu templo, pois Ele falou que eu deveria ama-la como Jesus amou a igreja, e ela é o meu templo, que me trás paz e esperança
             de um futuro lindo e uma família incrível. Muita gente se divorciando, muita gente infeliz que, Ao invés de tê-lo escutado e entregado sua vida para que ele decidisse,
