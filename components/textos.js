@@ -12,7 +12,6 @@ Vue.component('textos', {
           <a class="nav-link" href="../pages/eu-com-ela.html">eu com ela</a>
           <a class="nav-link" href="../pages/videos-dela.html">videos dela</a>
           <a class="nav-link" href="../pages/mapa-de-fotos.html">mapa de fotos</a>
-          <!--<a class="nav-link" href="../extensao/index.html">extensão</a>-->
         </div>
       </div>
     </div>
@@ -319,6 +318,35 @@ Vue.component('textos', {
             mundo que lê essa parte neste exato momento, de que estamos bem, juntos e grudados como nunca! Os medos continuam, a insegurança talvez ainda esteja presente em algum momento, 
             mas estamos aqui, nada mudou! aliás, mudou sim, pra melhor... é sempre pra melhor, nunca presenciei sequer um dia em que meu amor não fosse mais forte e intenso do que o dia anterior!!! 
             Feliz 5 meses amor da minha vida! &hearts;
+          </p>
+        </div>
+        <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/nos9.jpeg" height="550">
+        <div class="blog-content w-richtext">
+          <p>
+            Um navio com um grau de leme torcido, chegará num destino diferente a qual proposto foi.
+          </p>
+          <h2>Decisões - Pergunte a quem sabe</h2>
+          <p>
+            Quando se ama alguém, se quer proteger esse alguém a todo custo, e diante das circunstâncias do ambiente ao redor você se inflama muito e acumula
+            muita insegurança e medo sobre as pessoas, se vê muito desrespeito, inconveniência, falta de educação, rancor, raiva, mediocridade, má fé, orgulho,
+            arrogância... e toda essa fragilidade pode fazer essa "proteção" ser perigosa a ponto de sercear injustamente a liberdade da pessoa ao seu lado,
+            como já devo ter dito em alguma parte desse texto, mas não é sobre isso que vim falar nesse título.
+          </p>
+          <p>
+            Existe uma frase que diz sobre consequências previsíveis de escolhas erradas. É de muita facilidade ver pessoas tomando decisões precipitadas sobre
+            seus próprios entusiasmos, a empolgação e decisão sem a instrução do seu líder pode lhe trazer consequências severas, até mesmo nos mínimos detalhes,
+            sabe porque? Porque seu líder tem uma sabedoria infinita, é soberano sobre sua vida. Eu propus a ela que tivesse uma conversa fiél com Ele, sobre a
+            decisão que deveria tomar em relação a gente, em relação ao nosso casamento, a pergunta era simples: "Senhor, devo me casar com este homem ou não?"
+            As decisões a serem tomadas a partir dessa pergunta eram simples diante da resposta obtida, se Ele dissesse "sim", ela casaria, se Ele dissesse "não",
+            ela não casaria, e se Ele não dissesse nada, ela não se movia. Enfim, a ideia é não se mover sem o comando Dele, é entregar seu futuro nas suas mãos,
+            é confiar completamente nos planos Dele, porque enquanto nós estamos pensando no hoje, Ele está pensando daqui 1 mês, 1 ano, ele está pensando em
+            algo preparado, completo, no momento certo, Ele não quer que seu plano dê errado, sabe porque? Porque Ele, não constrói sobre escombros. Conclusão, 
+            Ela foi a um lugar preparado pra obter essas respostas, ela é o meu templo, pois Ele falou que eu deveria ama-la como Jesus amou a igreja, e ela é o meu templo, que me trás paz e esperança
+            de um futuro lindo e uma família incrível. Muita gente se divorciando, muita gente infeliz que, Ao invés de tê-lo escutado e entregado sua vida para que ele decidisse,
+            tomou suas próprias escolhas precipitadas. Confie!
+          </p>
+          <p>
+            aa
           </p>
         </div>
         <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/nos10.jpg" height="550">

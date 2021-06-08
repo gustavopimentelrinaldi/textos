@@ -13,7 +13,6 @@ Vue.component('videos-dela', {
         <a class="nav-link" href="eu-com-ela.html">eu com ela</a>
         <a class="nav-link" href="../pages/videos-dela.html">videos dela</a>
         <a class="nav-link" href="../pages/mapa-de-fotos.html">mapa de fotos</a>
-        <!--<a class="nav-link" href="../extensao/index.html">extensão</a>-->
       </div>
     </div>
     </div>
