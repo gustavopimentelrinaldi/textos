@@ -343,7 +343,7 @@ Vue.component('textos', {
             algo preparado, completo, no momento certo, Ele não quer que seu plano dê errado, sabe porque? Porque Ele, não constrói sobre escombros. Conclusão, 
             Ela foi a um lugar preparado pra obter essas respostas, ela é o meu templo, pois Ele falou que eu deveria ama-la como Jesus amou a igreja, e ela é o meu templo, que me trás paz e esperança
             de um futuro lindo e uma família incrível. Muita gente se divorciando, muita gente infeliz que, Ao invés de tê-lo escutado e entregado sua vida para que ele decidisse,
-            tomou suas próprias escolhas precipitadas. Confie!
+            tomou suas próprias escolhas precipitadas. Pelo que Ele falou a ela esse dia, sabemos que ela está abençoada por Ele, e acredito que Ele me incluiu nessa. Confie!
           </p>
         </div>
         <img class="main-image" sizes="(max-width: 767px) 95vw, (max-width: 991px) 728px, 940px" src="../assets/images/nos10.jpg" height="550">
